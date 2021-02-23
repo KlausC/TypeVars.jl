@@ -44,7 +44,5 @@ We make `typevar` a generated function to levearge this access.
 [gha-img]: https://github.com/KlausC/TypeVars.jl/workflows/CI/badge.svg
 [gha-url]: https://github.com/KlausC/TypeVars.jl/actions?query=workflow%3ACI
 
-[coveral-img]: https://coveralls.io/repos/github/KlausC/TypeVars.jl/badge.svg?branch=main
-[coveral-url]: https://coveralls.io/github/KlausC/TypeVars.jl?branch=main
-[codecov-img]: https://codecov.io/gh/KlausC/TypeVars.jl/branch/master/graph/badge.svg
+[codecov-img]: https://codecov.io/gh/KlausC/TypeVars.jl/branch/main/graph/badge.svg
 [codecov-url]: https://codecov.io/gh/KlausC/TypeVars.jl
